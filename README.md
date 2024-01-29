@@ -10,7 +10,6 @@ Web developer<br>I love anything related to computers
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=PezhmanAslani&theme=material-palenight&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=PezhmanAslani&theme=material-palenight&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=PezhmanAslani&theme=material-palenight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=PezhmanAslani&limit=5&theme=dracula&combine_all_yearly_contributions=true)
