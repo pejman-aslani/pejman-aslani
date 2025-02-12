@@ -6,9 +6,9 @@ I'm **Pejman Aslani**, a web developer specialized in **React.js**, **Angular**,
 
 ## Technologies I specialize in:
 
-- 🔹 **React.js**: Building dynamic and responsive applications.
-- 🔹 **Angular**: Developing complex, enterprise-level applications.
-- 🔹 **Yii2**: PHP framework for building fast and secure web applications.
+- 🔹 **React.js**
+- 🔹 **Angular**
+- 🔹 **Yii2**
 
 ---
 
