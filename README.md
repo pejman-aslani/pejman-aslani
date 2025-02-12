@@ -19,7 +19,7 @@ I'm **Pejman Aslani**, a web developer specialized in **React.js**, **Angular**,
 
 📧 Email: pejmanaslani7799@gmail.com.com
 
-🌐 [LinkedIn](https://www.linkedin.com/in/pejman-aslani)
+🌐 [LinkedIn](https://www.linkedin.com/in/pejman-aslani-53a641286)
 
 ---
 
