@@ -6,9 +6,10 @@ I'm **Pejman Aslani**, a web developer specialized in **React.js**, **Angular**,
 
 ## Technologies I specialize in:
 
-- 🔹 **React.js**
+- 🔹 **React**
 - 🔹 **Angular**
 - 🔹 **Yii2**
+- 🔹 **SpringBoot**
 - 🔹 **Laravel**
 ---
 
