@@ -9,7 +9,7 @@ I'm **Pejman Aslani**, a web developer specialized in **React.js**, **Angular**,
 - 🔹 **React.js**
 - 🔹 **Angular**
 - 🔹 **Yii2**
-
+- 🔹 **Laravel**
 ---
 
 
