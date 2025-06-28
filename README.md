@@ -1,29 +1,27 @@
-🚀 Welcome to Pejman Aslani's GitHub! 👨‍💻
-> "Code is poetry, and I'm here to write epic verses!"\
+# Welcome to my GitHub! 👋
 
-I'm Pejman Aslani, a Web Developer with a passion for crafting dynamic, scalable, and user-centric web applications. Specializing in React.js, Angular, and Yii2, I love turning ideas into reality with clean code and stunning UI/UX.
-
-
-🌟 About Me
-
-💻 Building modern web apps with React, Angular, and Yii2.
-🔥 Enthusiast of clean code, performance optimization, and innovative designs.
-🌍 Always exploring new tech stacks and contributing to open-source projects.
-
-
-🛠️ My Tech Stack
----
-📊 GitHub Stats
----
-🌟 Featured Projects
-
-Project Name 1: A React.js dashboard with real-time data visualization and a sleek, responsive design. Live Demo | Repo
-Project Name 2: An Angular-based e-commerce platform with advanced filtering and seamless UX. Live Demo | Repo
-Project Name 3: A Yii2 CMS with robust backend and intuitive admin panel. Live Demo | Repo
+I'm **Pejman Aslani**, a web developer specialized in **React.js**, **Angular**, and **Yii2**. I’m passionate about coding and building modern applications for better user experiences.
 
 ---
-📬 Let’s Connect!
+
+## Technologies I specialize in:
+
+- 🔹 **React**
+- 🔹 **Angular**
+- 🔹 **Yii2**
+- 🔹 **SpringBoot**
+- 🔹 **Laravel**
 ---
-🎨 Fun Vibes
-When I'm not coding, I'm either diving into new tech, sketching UI designs, or sipping coffee while dreaming up my next big project! ☕
-# Built with 💖 by Pejman Aslani
+
+
+
+## Let’s Connect!
+
+
+📧 Email: pejmanaslani7799@gmail.com.com
+
+🌐 [LinkedIn](https://www.linkedin.com/in/pejman-aslani-53a641286)
+
+---
+
+![GIF](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTJvbTFzZXM4MXBiYTF1NTllazFiNjI4NnNiaWFpbGM2cTlneGhnaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uzOSCSVYB4Vz2oO77M/giphy.gif)
