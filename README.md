@@ -1,111 +1,60 @@
 <div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0c0e14&height=1&section=header" width="100%" />
 
-  <!-- بنر هدر با موج نئونی متحرک -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,3,4&animation=twinkling&height=220&section=header&text=Pejman%20Aslani&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Senior%20Backend%20Engineer%20%7C%20PHP%20Architect%20%7C%20DevOps&descAlignY=62&descAlign=50" width="100%" />
-
-  <!-- متن متحرک تایپ‌شونده با استایل نئونی -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00F2FE&center=true&vCenter=true&width=750&lines=Building+Scalable+%26+High-Concurrency+Backends;PHP+Architect+(Laravel+%26+Yii2);Containerization+%26+CI%2FCD+Automation+(Docker%2C+K8s);Turning+Complex+Logic+into+Resilient+Microservices" alt="Typing SVG" />
-  </a>
-
-  <p align="center">
-    <a href="https://linkedin.com/in/pejman-aslani-53a641286" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-    </a>
-    <a href="mailto:pejmanaslani7799@gmail.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-    </a>
-    <img src="https://img.shields.io/badge/Focus-High%20Performance%20Systems-00f2fe?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/Status-Available%20for%20Impact-39ff14?style=for-the-badge" />
-  </p>
-
-</div>
-
----
-
-### ⚡ پنجره وضعیت و معماری سیستم (Live Terminal)
-
-<!-- اگر فایل neon-window.svg را در کنار README ذخیره کنید، این پنجره نئونی متحرک لود خواهد شد: -->
-<p align="center">
-  <img src="./neon-window.svg" width="95%" alt="Pejman Neon Terminal Window" />
-</p>
-
----
-
-## 👨‍💻 درباره من
-
-```bash
-pejman@system:~$ whoami
 ```
-- 🚀 **Senior Backend Developer** با تمرکز عمیق بر اکوسیستم **PHP** و معماری سیستم‌های پربازدید (**High Concurrency**).
-- 🐳 علاقه‌مند و پیاده‌ساز فرهنگ **DevOps** (اتوماسیون استقرار، مانیتورینگ، مدیریت کانتینرها و CI/CD).
-- 🧩 مسلط به الگوهای طراحی (**Design Patterns**)، اصول **SOLID**، رویکرد **Clean Architecture** و **Domain-Driven Design (DDD)**.
-- ⚙️ بهینه‌سازی دیتابیس‌های حجیم، کشینگ پیشرفته چندلایه‌ای و معماری رویدادمحور (**Event-Driven**).
+Backend Engineer — PHP · DevOps · System Design
+```
 
----
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=3500&pause=2000&color=67E8F9&center=true&vCenter=true&width=500&lines=Scalable+systems+that+survive+production;Clean+architecture+over+clever+hacks;If+it+can't+be+monitored%2C+it+can't+be+trusted" />
 
-## 🛠 مهارت‌های فنی و استک تخصصی (Tech Stack)
-
-### 🔹 Backend & Architecture (Core Expertise)
-<p align="left">
-  <img src="https://img.shields.io/badge/PHP_8.x-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Yii2-0073B7?style=for-the-badge&logo=yii&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/RESTful_APIs-00F2FE?style=for-the-badge&logo=fastapi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Microservices-9D00FF?style=for-the-badge&logo=diagram-next&logoColor=white" />
-</p>
-
-### 🔹 DevOps & Infrastructure
-<p align="left">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux_Servers-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
-</p>
-
-### 🔹 Databases, Cache & Messaging
-<p align="left">
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" />
-  <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" />
-</p>
-
-### 🔹 Frontend (Proficient / Full-Stack Background)
-<p align="left">
-  <img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-</p>
-
----
- (Synthwave / Tokyonight)
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pejmanaslani&show_icons=true&theme=tokyonight&border_color=00f2fe&bg_color=0d1117&title_color=ff007f&icon_color=00f2fe&hide_border=false" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pejmanaslani&theme=tokyonight&border=ff007f&background=0d1117&ring=00f2fe&fire=39ff14&sideNums=ffffff" width="48%" />
 </div>
 
+---
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pejmanaslani&layout=compact&theme=tokyonight&border_color=9d00ff&bg_color=0d1117&title_color=39ff14" width="48%" />
+  <img src="./neon-window.svg" width="92%" />
 </p>
+
+---
+
+### Stack
+
+```
+Backend        PHP 8.x · Laravel · Yii2 · Spring Boot
+Infrastructure Docker · Kubernetes · Nginx · Linux
+CI/CD          GitLab CI · GitHub Actions
+Data           PostgreSQL · MySQL · Redis · Elasticsearch · RabbitMQ
+Architecture   DDD · CQRS · Event Sourcing · Microservices · Clean Architecture
+Frontend       React · Angular · TypeScript
+```
+
+---
+
+### Principles
+
+- Write code that the next engineer can debug at 3 AM.
+- Automate everything that runs more than twice.
+- Observability is not optional — logs, metrics, traces.
+- Design for failure. Recover without intervention.
 
 ---
 
 <div align="center">
 
-  ## 🤝 با من در ارتباط باشید
+<img src="https://github-readme-stats.vercel.app/api?username=pejmanaslani&show_icons=true&hide_border=true&bg_color=0c0e14&title_color=67e8f9&icon_color=c084fc&text_color=94a3b8&ring_color=67e8f9" height="160" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=pejmanaslani&hide_border=true&background=0c0e14&ring=67e8f9&fire=c084fc&currStreakLabel=67e8f9&sideLabels=94a3b8&currStreakNum=cbd5e1&sideNums=cbd5e1&dates=475569" height="160" />
 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Pejman_Aslani-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/pejman-aslani-53a641286)
-  [![Email](https://img.shields.io/badge/Email-pejmanaslani7799%40gmail.com-EA4335?style=flat-square&logo=gmail)](mailto:pejmanaslani7799@gmail.com)
+</div>
 
-  <br>
+---
 
-  <!-- بنر فوتر نئونی -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=4,3,2,1&height=120&section=footer" width="100%" />
+<div align="center">
+
+<a href="https://www.linkedin.com/in/pejman-aslani-53a641286">
+<img src="https://img.shields.io/badge/linkedin-0c0e14?style=flat-square&logo=linkedin&logoColor=67e8f9" />
+</a>
+<a href="mailto:pejmanaslani7799@gmail.com">
+<img src="https://img.shields.io/badge/email-0c0e14?style=flat-square&logo=gmail&logoColor=67e8f9" />
+</a>
 
 </div>
